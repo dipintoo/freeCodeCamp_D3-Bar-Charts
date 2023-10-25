@@ -9,7 +9,7 @@ Pada project ini kamu akan memvisualisasikan data [GDP Amerika Serikat dari tahu
 ## User Stories:
 
 1. Grafik saya harus memiliki judul dengan ID `title`
-2. Grafik saya harus memiliki elemen g x-axis dengan ID`x-axis`
+2. Grafik saya harus memiliki elemen g x-axis dengan ID `x-axis`
 3. Grafik saya harus memiliki elemen g y-axis dengan ID `y-axis`
 4. Kedua sumbu harus berisi beberapa label, masing-masing dengan class `tick`
 5. Grafik saya harus memiliki elemen `rect` untuk setiap data point dengan class `bar` yang menampilkan data.
