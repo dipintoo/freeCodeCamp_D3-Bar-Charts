@@ -11,8 +11,8 @@ Pada project ini kamu akan memvisualisasikan data [GDP Amerika Serikat dari tahu
 1. Grafik saya harus memiliki judul dengan ID `title`
 2. Grafik saya harus memiliki elemen g x-axis dengan ID`x-axis`
 3. Grafik saya harus memiliki elemen g y-axis dengan ID `y-axis`
-4. Kedua sumbu harus berisi beberapa label centang, masing-masing dengan class `tick`
-5. Grafik saya harus memiliki elemen rect untuk setiap data point dengan class `bar` yang menampilkan data.
+4. Kedua sumbu harus berisi beberapa label, masing-masing dengan class `tick`
+5. Grafik saya harus memiliki elemen `rect` untuk setiap data point dengan class `bar` yang menampilkan data.
 6. Setiap class `bar` harus memiliki properti `data-date` dan `data-gdp` yang berisi tanggal dan nilai GDP.
 7. Properti `data-date` dari class `bar` harus sesuai dengan urutan data yang disediakan.
 8. Properti data-gdp dari class `bar` harus sesuai dengan urutan data yang disediakan.
