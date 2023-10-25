@@ -4,7 +4,7 @@ Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan
 
 ## Teknologi yang digunakan
 
-Pada project ini kamu akan memvisualisasikan [data GDP Amerika Serikat dari tahun 1950 - 2015](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json) dengan data berformat JSON menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk Bar Chart. Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan Bar Chart yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
+Pada project ini kamu akan memvisualisasikan data [GDP Amerika Serikat dari tahun 1950 - 2015](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json) dengan data berformat JSON menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk Bar Chart. Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan Bar Chart yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
 
 ## User Stories:
 
