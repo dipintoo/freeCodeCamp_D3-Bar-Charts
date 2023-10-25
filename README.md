@@ -13,13 +13,13 @@ Pada project ini kamu akan memvisualisasikan data [GDP Amerika Serikat dari tahu
 3. Grafik saya harus memiliki elemen g y-axis dengan ID `y-axis`
 4. Kedua sumbu harus berisi beberapa label, masing-masing dengan class `tick`
 5. Grafik saya harus memiliki elemen `rect` untuk setiap data point dengan class `bar` yang menampilkan data.
-6. Setiap class `bar` harus memiliki properti `data-date` dan `data-gdp` yang berisi tanggal dan nilai GDP.
+6. Setiap elemen `bar` harus memiliki properti `data-date` dan `data-gdp` yang berisi tanggal dan nilai GDP.
 7. Properti `data-date` dari class `bar` harus sesuai dengan urutan data yang disediakan.
-8. Properti data-gdp dari class `bar` harus sesuai dengan urutan data yang disediakan.
-9. Tinggi setiap elemen class `bar` harus dengan akurat mencerminkan GDP yang sesuai.
-10. Atribut data-date dan class `bar` yang sesuai harus sejajar dengan nilai yang sesuai di sumbu x.
-11. Atribut data-gdp dan class `bar` yang sesuai harus sejajar dengan nilai yang sesuai di sumbu y.
-12. Saya dapat mengarahkan mouse ke suatu area dan melihat tooltip dengan `tooltip` yang menampilkan lebih banyak informasi tentang data tersebut.
+8. Properti data-gdp dari elemen `bar` harus sesuai dengan urutan data yang disediakan.
+9. Tinggi setiap elemen `bar` harus dengan akurat mencerminkan GDP yang sesuai.
+10. Atribut `data-date` dan elemen `bar` yang sesuai harus sejajar dengan nilai yang sesuai di sumbu x.
+11. Atribut `data-gdp` dan elemen `bar` yang sesuai harus sejajar dengan nilai yang sesuai di sumbu y.
+12. Saya dapat mengarahkan mouse ke suatu area dan melihat `tooltip` yang menampilkan detail data tersebut.
 13. Tooltip saya harus memiliki properti `data-date` yang sesuai dengan `data-date` dari area yang aktif.
 
 ## Coding dan Testing
